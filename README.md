@@ -1,5 +1,5 @@
-go-warc: golang library to work with WARC files
-============================================
+go-warc: golang library to work with WARC streams
+=================================================
 
 go-warc is a golang port of the python warc library:
 
